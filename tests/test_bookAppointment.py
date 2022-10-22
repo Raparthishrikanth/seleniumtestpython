@@ -1,6 +1,6 @@
 import pytest
 
-from actions.Actions import Actions
+from action.Actions import Actions
 from pageObjects.BookingPage import BookingPage
 from pageObjects.ConfPage import ConfPage
 from pageObjects.HomePage import HomePage

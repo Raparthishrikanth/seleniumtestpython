@@ -1,6 +1,6 @@
 import pytest
 
-from actions.Actions import Actions
+from action.Actions import Actions
 from pageObjects.HomePage import HomePage
 from utilities.Base import Base
 from utilities.Data import Data
